@@ -1,5 +1,3 @@
-# VBA-Refactoring-Performance
-
 # Refactor VBA Code and Measure Performance
 
 ## Overview of Project
